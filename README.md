@@ -24,6 +24,15 @@ On ProjectLift users can:
 - Firebase Storage: For storing images
 - Tailwind CSS: For easy styling
 
+## Most Creative Use of GitHub
+
+I have used GitHub for the reasons listed below:
+
+- CI/CD: We have used GitHub actions for CI/CD for the project.
+- Setting up the project: Starting a project on GitHub couldn't be simpler.
+- GitHub Project: To plan and monitor the development of our project utilizing GitHub projects.
+- Utilizing PRs and Issues: In order to keep the project on track, we are creating numerous PRs and issues.
+
 ## 🧠 Challenges we ran into
 
 - Because we had to implement the project by a certain date, finishing the project was difficult.
