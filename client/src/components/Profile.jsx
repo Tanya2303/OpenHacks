@@ -117,7 +117,7 @@ export default function Profile(props) {
                         <p className="pl-4">Pull Requests</p>
                       </div>
 
-                      <a href="mailto:smith@exa.com"><button className="bg-blue-600 text-white py-2 px-8 rounded-md ml-2">
+                      <a><button className="bg-blue-600 text-white py-2 px-8 rounded-md ml-2">
                         Activate
                       </button>
                       </a>
