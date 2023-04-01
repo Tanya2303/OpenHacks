@@ -19,9 +19,9 @@ function App() {
 
   return (
     <div className="font-nunito">
-      {/* {user ? ( */}
+      {user ? (
         <Routes />
-      {/* ) : (
+       ) : (
         <>
           <div className="min-w-screen min-h-screen flex items-center justify-center px-5 py-5">
             <div className="bg-gray-100 text-gray-500 rounded-3xl shadow-xl w-[60rem] overflow-hidden h-[35rem]">
@@ -50,7 +50,7 @@ function App() {
             </div>
           </div>
         </>
-      )} */}
+      )}
     </div>
   )
 }
