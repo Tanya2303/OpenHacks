@@ -3,7 +3,7 @@ import Profile from "../components/Profile"
 
 export default function Dashboard() {
     const [items, setItems] = useState([])
-    const [user] = useState("Tanya2303")
+    const [user] = useState(user.displayName)
 
     useEffect(() => {
         const fetchRepos = async () => {
